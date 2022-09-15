@@ -20,3 +20,13 @@ function divide(num1, num2) {
 divide(12,4)
 
 
+// ------------------- power -------------------
+function power(num1, num2) {
+  let answer = num1 ** num2
+  
+  console.log(answer)
+  return answer
+}
+
+
+power(3,4)
