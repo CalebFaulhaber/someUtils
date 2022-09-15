@@ -30,3 +30,11 @@ function power(num1, num2) {
 
 
 power(3,4)
+
+function add(addend1, addend2){
+  let answer = addend1 + addend2
+
+  console.log(answer)
+  return answer
+}
+add(5, 10)
